@@ -1,0 +1,50 @@
+/* .hidden{
+    display: none;
+} */
+/* .show{
+    display: block;
+} */
+
+#contact-item-details {
+    float: left;
+    width: 200px;
+    background: #333;
+    overflow: auto;
+    color: white;
+    padding: 10px;
+    margin-left: 1px;
+}
+
+#add-contact-module {
+    display: inline-block;
+    margin-bottom: 1px;
+    margin-left: 8px;
+}
+#add-contact-module #open-add-contact-form-btn {
+    background: #54bb7d;
+    font-size: 1.5em;
+    color: white;
+    padding-bottom: 5px;
+}
+#add-contact-module form {
+    position: absolute;
+    padding: 10px;
+    width: 150px;
+    background-color: #e1e1e1;
+    border: 1px solid #999;
+    display: none;
+}
+#add-contact-module form input {
+    width: 97%;
+    margin: 2px 0;
+}
+#add-contact-module form button {
+    background: #54bb7d;
+    font-size: 1em;
+    padding: 0px 10px;
+    color: white;
+    margin-top: 10px;
+}
+#add-contact-module:hover form {
+    display: block;
+}
