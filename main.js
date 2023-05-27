@@ -17,40 +17,7 @@ let data = [
     count: 0,
   },
 ]
-// console.log(data[0].imgSrc[0])
 
-// const contactsData = [
-//   {
-//     fname: "Anbu",
-//     lname: "Arasan",
-//     phone: "190-309-6101",
-//     email: "anbu.arasan@email.com",
-//   },
-//   {
-//     fname: "Arivu",
-//     lname: "Mugilan",
-//     phone: "490-701-7102",
-//     email: "arivu.mugilan@email.com",
-//   },
-//   {
-//     fname: "Bob",
-//     lname: "Johnson",
-//     phone: "574-909-3948",
-//     email: "bob.johnson@email.com",
-//   },
-//   {
-//     fname: "Raja",
-//     lname: "Tamil",
-//     phone: "090-909-0101",
-//     email: "raja.tamil@email.com",
-//   },
-//   {
-//     fname: "Sundar",
-//     lname: "Kannan",
-//     phone: "090-909-0101",
-//     email: "sundar.kannan@email.com",
-//   },
-// ];
 
 
 // VIEW
